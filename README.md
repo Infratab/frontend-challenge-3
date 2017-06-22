@@ -1,5 +1,3 @@
-# frontend-challenge-3
-
 # Infratab Frontend Coding Challenge!
 
 ## Getting started
@@ -28,7 +26,7 @@ We would like you to follow the Github flow to participate in the coding challen
 ### Setup the project
 1. Change directory to report
 
-#### Challenge
+### Challenge
 
 Your challenge is to implement the following designs given in the below section and fulfil the functional requirements listed below.You can implement the design using any js library/frameworks you like.
 
