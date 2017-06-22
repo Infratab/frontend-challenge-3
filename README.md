@@ -2,8 +2,7 @@
 
 ## Getting started
 1. [Participate](#participate)
-2. [Setup the project](#setup-the-project)
-3. [Complete the Challenge!](#challenge)
+2. [Complete the Challenge!](#challenge)
 
 ### Participate
 There are two ways to participate in our coding challenge:
@@ -22,9 +21,6 @@ We would like you to follow the Github flow to participate in the coding challen
 1. Download this project direactory as a compressed folder (`frontend-challenge.zip`)
 2. Complete the requirements listed in the [Challenge](#challenge)
 3. Email the compressed folder to careers@infratab.in or to the person with whom you have been interacting!
-
-### Setup the project
-1. Change directory to report
 
 ### Challenge
 
