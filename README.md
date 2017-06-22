@@ -24,7 +24,7 @@ We would like you to follow the Github flow to participate in the coding challen
 
 ### Challenge
 
-Your challenge is to implement the following designs given in the below section and fulfil the functional requirements listed below. Implement the design using any one of the **component based frameworks**. Popular component based js frameworks are [React](https://facebook.github.io/react/), [Angular >= 2](https://angular.io/).. etc. Feel free to choose any other component based frameworks you are familiar with.
+Your challenge is to implement the following designs given in the below section and fulfil the functional requirements listed below. Implement the design using any one of the **component based js frameworks**. Popular component based js frameworks are [React](https://facebook.github.io/react/), [Angular >= 2](https://angular.io/).. etc. Feel free to choose any other component based frameworks you are familiar with.
 
 **NOTE:** 
 1. Implement this task using plain html, css(sass, less) without any css frameworks (like: bootstrap, materialize)
