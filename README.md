@@ -24,9 +24,12 @@ We would like you to follow the Github flow to participate in the coding challen
 
 ### Challenge
 
-Your challenge is to implement the following designs given in the below section and fulfil the functional requirements listed below.You can implement the design using any js library/frameworks you like but with plain html, css.
+Your challenge is to implement the following designs given in the below section and fulfil the functional requirements listed below. Implement the design using any one of the **component based frameworks**. Popular component based js frameworks are [React](https://facebook.github.io/react/), [Angular >= 2](https://angular.io/).. etc. but feel free to choose any other component based frameworks you are familiar with.
 
-**NOTE:** Implement this task using plain html, css without any css frameworks and please implement the design as it is! (This doesn't hold you back from changing the text or messages in the app - feel free to change the english as you want)
+**NOTE:** 
+1. Implement this task using plain html, css without any css frameworks
+2. Do not use any eCommerce frameworks which are already available. Example for such frameworks for react are [moltin](https://www.moltin.com/blog/2017/03/react-js/), [nicistore](https://github.com/yoonic/nicistore). Please do not use such frameworks.
+3. Please implement the design as it is! (This doesn't hold you back from changing the text or messages in the app - feel free to change the english as you want)
 
 ### Functional requirements:
 - Show list of items and "Your cart" sections as shown in below image. If none of the items are added to your cart, show message in the "Your cart" section as shown in the below image.
